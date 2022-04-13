@@ -18,7 +18,7 @@ export default function SearchComponents() {
     >
       <Grid item xs={5} style={{ color: "black" }}>
         <Typography variant="h2" gutterBottom component="div">
-          Search four favourite movie
+          Search your favourite movie
         </Typography>
 
         <Autocomplete
