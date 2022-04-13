@@ -1,7 +1,7 @@
 
-"About the mowie" project in progress
+"About the movie" -  project in progress
 
-## `About the mowie`
+## `About the movie`
 
 This is an app where you can search for your movie to learn more about it. The application provides information about actors, movie descriptions, reviews and you will see photos from the movie\
 
